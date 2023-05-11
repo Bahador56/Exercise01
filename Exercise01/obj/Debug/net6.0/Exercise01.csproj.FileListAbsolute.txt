@@ -1,0 +1,15 @@
+G:\Poroject Bahador\Exercise01\Exercise01\bin\Debug\net6.0\Exercise01.exe
+G:\Poroject Bahador\Exercise01\Exercise01\bin\Debug\net6.0\Exercise01.deps.json
+G:\Poroject Bahador\Exercise01\Exercise01\bin\Debug\net6.0\Exercise01.runtimeconfig.json
+G:\Poroject Bahador\Exercise01\Exercise01\bin\Debug\net6.0\Exercise01.dll
+G:\Poroject Bahador\Exercise01\Exercise01\bin\Debug\net6.0\Exercise01.pdb
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.csproj.AssemblyReference.cache
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfoInputs.cache
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfo.cs
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.csproj.CoreCompileInputs.cache
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.dll
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\refint\Exercise01.dll
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.pdb
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.genruntimeconfig.cache
+G:\Poroject Bahador\Exercise01\Exercise01\obj\Debug\net6.0\ref\Exercise01.dll
